@@ -185,6 +185,10 @@ exclude:
   - README
   - tmp
   - vendor
+  - _talks
+  - _teaching
+  - _portfolio
+  - _posts
 keep_files:
   - .git
   - .svn
